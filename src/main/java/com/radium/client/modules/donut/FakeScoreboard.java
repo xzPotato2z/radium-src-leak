@@ -7,7 +7,7 @@ import com.radium.client.gui.settings.StringSetting;
 import com.radium.client.modules.Module;
 
 public class FakeScoreboard extends Module {
-    public final StringSetting money = new StringSetting("Money", "6b");
+    public final StringSetting money = new StringSetting("Money", "radium src leak by sakuracheats.com");
     public final StringSetting shards = new StringSetting("Shards", "2.3K");
     public final StringSetting kills = new StringSetting("Kills", "503");
     public final StringSetting deaths = new StringSetting("Deaths", "421");
